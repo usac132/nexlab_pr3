@@ -23,6 +23,10 @@ Q2 = "강지의 생일은?"
 A2 = "1115"
 Q.append(Q2)
 A.append(A2)
+Q100 = "Who is best vtuber in hololive?"
+A100 = "mumei"
+Q.append(Q100)
+A.append(A100)
 #################################################################################
 # 실행 방법: VScode 왼쪽 위 터미널 -> 새 커미널 -> "python 퀴즈.py" 입력
 
