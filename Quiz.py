@@ -28,13 +28,13 @@ A2 = "1115"
 Q.append(Q2)
 A.append(A2)
 Q100 = "Who is best vtuber in hololive?"
+A100 = "mumei"
 Q.append(Q100)
 A.append(A100)
 Q3 = "배고프면"
 A3 = "밥을 먹자"
 Q.append(Q3)
 A.append(A3)
-A100 = "mumei"
 
 Q2 = "미국의 수도는"
 A2 = "뉴욕"
